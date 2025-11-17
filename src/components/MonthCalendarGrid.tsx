@@ -3,7 +3,9 @@ import { AlmanacDay } from "./DayCard";
 type Props = {
   year: number;
   monthIndex: number; // 0-11
-  days: AlmanacDay[]; // already filtered for this month + filter mode
+  days: AlmanacDay[];
+  selectedDate?: string | null;
+  onSelectDate?: (date: string) => void;
 };
 
 type Cell = {
@@ -13,13 +15,30 @@ type Cell = {
 
 const weekdayLabels = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
 
+const phaseLabels: Record<string, string> = {
+  new: "New Moon",
+  waxing_crescent: "Waxing Crescent",
+  first_quarter: "First Quarter",
+  waxing_gibbous: "Waxing Gibbous",
+  full: "Full Moon",
+  waning_gibbous: "Waning Gibbous",
+  last_quarter: "Last Quarter",
+  waning_crescent: "Waning Crescent",
+};
+
 function isoDate(year: number, monthIndex: number, day: number) {
   return `${year}-${String(monthIndex + 1).padStart(2, "0")}-${String(
     day
   ).padStart(2, "0")}`;
 }
 
-export function MonthCalendarGrid({ year, monthIndex, days }: Props) {
+export function MonthCalendarGrid({
+  year,
+  monthIndex,
+  days,
+  selectedDate,
+  onSelectDate,
+}: Props) {
   const firstWeekday = new Date(year, monthIndex, 1).getDay();
   const daysInMonth = new Date(year, monthIndex + 1, 0).getDate();
 
@@ -28,12 +47,10 @@ export function MonthCalendarGrid({ year, monthIndex, days }: Props) {
 
   const cells: Cell[] = [];
 
-  // Leading empty cells
   for (let i = 0; i < firstWeekday; i++) {
     cells.push({ dayNumber: null, entry: null });
   }
 
-  // Month days
   for (let day = 1; day <= daysInMonth; day++) {
     const dateStr = isoDate(year, monthIndex, day);
     cells.push({ dayNumber: day, entry: byDate.get(dateStr) ?? null });
@@ -50,53 +67,55 @@ export function MonthCalendarGrid({ year, monthIndex, days }: Props) {
         {cells.map((cell, idx) => {
           if (cell.dayNumber === null) {
             return (
-              <div
-                key={idx}
-                className="h-20 bg-slate-950/60"
-              />
+              <div key={idx} className="h-20 bg-slate-950/60" />
             );
           }
 
-          const hasEntry = !!cell.entry;
+          const entry = cell.entry;
+          const isSelected = entry && selectedDate === entry.date;
+
+          let subtitle = "";
+          if (entry?.holiday) {
+            subtitle = entry.holiday;
+          } else if (entry?.moonName) {
+            subtitle = entry.moonName;
+          } else if (entry) {
+            subtitle = phaseLabels[entry.moonPhase] ?? entry.moonPhase;
+          }
 
           return (
-            <div
+            <button
               key={idx}
+              type="button"
+              onClick={() => entry && onSelectDate && onSelectDate(entry.date)}
               className={[
-                "flex h-20 flex-col border border-slate-800 bg-slate-950/80 p-1 text-xs",
-                hasEntry ? "cursor-pointer hover:border-emerald-400" : "",
+                "flex h-20 flex-col border border-slate-800 bg-slate-950/80 p-1 text-left text-xs focus:outline-none",
+                entry ? "hover:border-emerald-400 cursor-pointer" : "",
+                isSelected ? "border-emerald-400 bg-slate-900" : "",
               ].join(" ")}
             >
               <div className="flex items-start justify-between">
                 <span className="text-[11px] font-semibold text-slate-100">
                   {cell.dayNumber}
                 </span>
-                {cell.entry?.holiday && (
+                {entry?.holiday && (
                   <span className="rounded-full bg-amber-500/20 px-1 text-[9px] text-amber-300">
                     H
                   </span>
                 )}
+                {entry?.moonPhase === "full" && !entry.holiday && (
+                  <span className="rounded-full bg-sky-500/20 px-1 text-[9px] text-sky-300">
+                    ●
+                  </span>
+                )}
               </div>
-              {hasEntry && (
-                <div className="mt-1 space-y-0.5">
-                  <p className="truncate text-[10px] text-slate-200">
-                    {cell.entry?.moonName
-                      ? cell.entry.moonName
-                      : cell.entry?.moonPhase}
-                  </p>
-                  {cell.entry?.farming && (
-                    <p className="truncate text-[9px] text-emerald-300">
-                      Farm: {cell.entry.farming.bestFor?.[0] ?? "see details"}
-                    </p>
-                  )}
-                  {cell.entry?.business && (
-                    <p className="truncate text-[9px] text-sky-300">
-                      Biz: {cell.entry.business.bestFor?.[0] ?? "see details"}
-                    </p>
-                  )}
-                </div>
+
+              {subtitle && (
+                <p className="mt-1 truncate text-[10px] text-slate-200">
+                  {subtitle}
+                </p>
               )}
-            </div>
+            </button>
           );
         })}
       </div>

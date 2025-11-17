@@ -30,8 +30,15 @@ const phaseLabels: Record<string, string> = {
   waning_crescent: "Waning Crescent",
 };
 
+function parseIso(dateStr: string) {
+  const [y, m, d] = dateStr.split("-").map(Number);
+  return { year: y, monthIndex: m - 1, day: d };
+}
+
 function formatDate(dateStr: string) {
-  return new Date(dateStr).toLocaleDateString("en-US", {
+  const { year, monthIndex, day } = parseIso(dateStr);
+  const local = new Date(year, monthIndex, day);
+  return local.toLocaleDateString("en-US", {
     month: "short",
     day: "numeric",
     year: "numeric",
@@ -83,9 +90,7 @@ export function DayCard({ day }: { day: AlmanacDay }) {
             {day.moonName ? ` • ${day.moonName}` : ""}
           </p>
           {day.region && (
-            <p className="mt-1 text-[11px] text-slate-400">
-              {day.region}
-            </p>
+            <p className="mt-1 text-[11px] text-slate-400">{day.region}</p>
           )}
         </div>
 
@@ -115,9 +120,7 @@ export function DayCard({ day }: { day: AlmanacDay }) {
       {day.crops && day.crops.length > 0 && (
         <p className="mt-3 text-xs text-slate-300">
           Focus crops:{" "}
-          <span className="font-medium">
-            {day.crops.join(", ")}
-          </span>
+          <span className="font-medium">{day.crops.join(", ")}</span>
         </p>
       )}
 

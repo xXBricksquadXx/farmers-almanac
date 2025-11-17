@@ -225,6 +225,9 @@ function buildDay(date) {
     if (moonPhase === 'full') {
       return 'Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.';
     }
+    if (phaseGroup === 'quarter') {
+      return 'Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.';
+    }
     if (phaseGroup === 'waxing') {
       return 'Energy building; favor starting and growing things.';
     }
