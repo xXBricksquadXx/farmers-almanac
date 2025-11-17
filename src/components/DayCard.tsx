@@ -11,6 +11,12 @@ export type AlmanacDay = {
   notes?: string | null;
   farming?: CategoryNotes;
   business?: CategoryNotes;
+
+  // New fields
+  region?: string | null;
+  holiday?: string | null;
+  eclipse?: "solar" | "lunar" | null;
+  crops?: string[];
 };
 
 const phaseLabels: Record<string, string> = {
@@ -76,16 +82,43 @@ export function DayCard({ day }: { day: AlmanacDay }) {
             {phaseLabels[day.moonPhase] ?? day.moonPhase}
             {day.moonName ? ` • ${day.moonName}` : ""}
           </p>
+          {day.region && (
+            <p className="mt-1 text-[11px] text-slate-400">
+              {day.region}
+            </p>
+          )}
         </div>
-        {day.sign && (
-          <span className="rounded-full border border-slate-700 px-3 py-1 text-xs text-slate-200">
-            {day.sign}
-          </span>
-        )}
+
+        <div className="flex flex-col items-end gap-1">
+          {day.sign && (
+            <span className="rounded-full border border-slate-700 px-3 py-1 text-xs text-slate-200">
+              {day.sign}
+            </span>
+          )}
+          {day.holiday && (
+            <span className="rounded-full bg-amber-500/15 px-3 py-1 text-[11px] font-medium text-amber-300">
+              {day.holiday}
+            </span>
+          )}
+          {day.eclipse && (
+            <span className="rounded-full bg-indigo-500/15 px-3 py-1 text-[11px] font-medium text-indigo-300">
+              {day.eclipse === "solar" ? "Solar eclipse" : "Lunar eclipse"}
+            </span>
+          )}
+        </div>
       </div>
 
       {day.notes && (
         <p className="mt-3 text-sm text-slate-200">{day.notes}</p>
+      )}
+
+      {day.crops && day.crops.length > 0 && (
+        <p className="mt-3 text-xs text-slate-300">
+          Focus crops:{" "}
+          <span className="font-medium">
+            {day.crops.join(", ")}
+          </span>
+        </p>
       )}
 
       <div className="mt-4 grid gap-3 md:grid-cols-2">
