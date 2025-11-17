@@ -92,8 +92,10 @@ export function TodayStrip({
         )}
       </div>
 
-      {entry.notes && (
-        <p className="mt-2 text-sm text-slate-100">{entry.notes}</p>
+        {entry.notes && (
+        <p className="mt-2 text-[13px] leading-relaxed text-slate-100 dropcap">
+          {entry.notes}
+        </p>
       )}
 
       <div className="mt-2 space-y-1 text-xs text-slate-200">
