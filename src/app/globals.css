@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Simple global defaults */
+body {
+  background-color: rgb(15 23 42); /* slate-950 */
+  color: rgb(248 250 252);         /* slate-50 */
+}
