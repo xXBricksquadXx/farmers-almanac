@@ -58,6 +58,61 @@ function getMonthKeyForDate(dateStr: string | null): string | null {
   return `${year}-${String(monthIndex + 1).padStart(2, "0")}`;
 }
 
+// --- Seasonal banner helpers ---
+
+type SeasonInfo = {
+  name: string;
+  tone: string;
+  farming: string;
+  business: string;
+};
+
+function getSeasonForMonth(monthIndex: number): SeasonInfo {
+  // monthIndex: 0 = Jan ... 11 = Dec
+  if (monthIndex === 11 || monthIndex <= 1) {
+    // Dec–Feb
+    return {
+      name: "Winter planning",
+      tone: "Quiet fields, busy notebooks.",
+      farming:
+        "Focus on equipment maintenance, seed orders, pasture planning, and barn repairs.",
+      business:
+        "Good for budgeting, tax prep, and mapping cash flow before the next planting push.",
+    };
+  }
+  if (monthIndex >= 2 && monthIndex <= 4) {
+    // Mar–May
+    return {
+      name: "Spring emergence",
+      tone: "Ground wakes up; plans take root.",
+      farming:
+        "Corn and soybean planting, pasture renovation, and watching soil temps and moisture.",
+      business:
+        "Strong time for launching new offers and lining up markets for the growing season.",
+    };
+  }
+  if (monthIndex >= 5 && monthIndex <= 7) {
+    // Jun–Aug
+    return {
+      name: "High summer",
+      tone: "Growth, stress, and mid-season checks.",
+      farming:
+        "Side-dressing, irrigation, hay cutting, and keeping cattle on good forage.",
+      business:
+        "Run mid-season promotions, review margins on inputs, and cut what isn’t paying.",
+    };
+  }
+  // Sep–Nov
+  return {
+    name: "Harvest & wrap-up",
+    tone: "Bringing crops and accounts back home.",
+    farming:
+      "Harvesting corn and soybeans, bringing in pumpkins, and setting winter cover crops.",
+    business:
+      "Clear out risky contracts, settle accounts, and take a hard look at year-end numbers.",
+  };
+}
+
 export default function HomePage() {
   const days = [...(data as AlmanacDay[])].sort((a, b) =>
     a.date.localeCompare(b.date)
@@ -83,6 +138,8 @@ export default function HomePage() {
   const currentMonthIndex = (Number(monthStr) || 1) - 1;
 
   const baseMonthDays = grouped[currentKey] ?? [];
+
+  const season = getSeasonForMonth(currentMonthIndex);
 
   function goPrevMonth() {
     if (currentIndex <= 0) return;
@@ -113,6 +170,40 @@ export default function HomePage() {
 
         <TodayStrip days={days} selectedDate={selectedDate} />
 
+        {/* Seasonal banner */}
+        <section className="mb-5 rounded-xl border border-slate-800 bg-slate-950/70 px-4 py-3 text-xs text-slate-200">
+          <div className="flex flex-wrap items-baseline justify-between gap-2">
+            <div>
+              <p className="text-[11px] uppercase tracking-wide text-slate-400">
+                Season guide
+              </p>
+              <p className="text-sm font-semibold text-slate-50">
+                {season.name}
+              </p>
+              <p className="text-[11px] text-slate-300">{season.tone}</p>
+            </div>
+          </div>
+          <div className="mt-2 grid gap-3 md:grid-cols-2">
+            <div>
+              <p className="text-[11px] font-semibold uppercase text-slate-400">
+                Farming focus
+              </p>
+              <p className="mt-1 text-[12px] leading-relaxed">
+                {season.farming}
+              </p>
+            </div>
+            <div>
+              <p className="text-[11px] font-semibold uppercase text-slate-400">
+                Business focus
+              </p>
+              <p className="mt-1 text-[12px] leading-relaxed">
+                {season.business}
+              </p>
+            </div>
+          </div>
+        </section>
+
+        {/* Month navigation */}
         <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
           <div className="flex items-center gap-2">
             <button
@@ -152,6 +243,7 @@ export default function HomePage() {
           </div>
         </div>
 
+        {/* Calendar */}
         <section className="rounded-xl border border-slate-800 bg-slate-950/60 p-4">
           <h2 className="mb-3 text-lg font-semibold text-slate-100">
             {monthLabelFromKey(currentKey)}
