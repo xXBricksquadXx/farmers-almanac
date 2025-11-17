@@ -1,8 +1,8 @@
 import { AlmanacDay, DayCard } from "./DayCard";
 
 type MonthGridProps = {
-  label: string;       // e.g. "November 2025"
-  days: AlmanacDay[];  // already filtered to that month
+  label: string;
+  days: AlmanacDay[];
 };
 
 export function MonthGrid({ label, days }: MonthGridProps) {

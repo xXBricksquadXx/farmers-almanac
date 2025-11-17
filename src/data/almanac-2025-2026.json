@@ -1,26 +1,47 @@
 [
   {
-    "date": "2025-11-01",
+    "date": "2025-10-31",
     "moonPhase": "waxing_crescent",
     "moonName": null,
     "sign": "Sagittarius",
     "notes": "Good for planning and vision work; light planting.",
-    "tags": ["planning", "light_planting"]
+    "farming": {
+      "bestFor": ["planning next season beds", "light above-ground planting"],
+      "avoid": ["heavy tilling"]
+    },
+    "business": {
+      "bestFor": ["big-picture strategy", "creative brainstorming"],
+      "avoid": ["locking in long-term contracts"]
+    }
   },
   {
-    "date": "2025-11-05",
+    "date": "2025-11-04",
     "moonPhase": "first_quarter",
     "moonName": null,
     "sign": "Capricorn",
     "notes": "Push through existing projects; avoid starting brand-new contracts.",
-    "tags": ["push_projects", "avoid_new_contracts"]
+    "farming": {
+      "bestFor": ["weeding", "strengthening existing plantings"],
+      "avoid": ["sowing new, delicate crops"]
+    },
+    "business": {
+      "bestFor": ["execution sprints", "finishing open tasks"],
+      "avoid": ["brand-new ventures"]
+    }
   },
   {
-    "date": "2025-11-17",
+    "date": "2025-11-16",
     "moonPhase": "full",
     "moonName": "Beaver Moon",
     "sign": "Gemini",
     "notes": "Harvest and release; good for wrapping cycles and marketing launches.",
-    "tags": ["harvest", "release", "marketing"]
+    "farming": {
+      "bestFor": ["harvest work", "root-level inspection of soil health"],
+      "avoid": ["planting long-term perennials"]
+    },
+    "business": {
+      "bestFor": ["launches", "reporting, reviewing results"],
+      "avoid": ["starting something you cannot realistically maintain"]
+    }
   }
 ]
