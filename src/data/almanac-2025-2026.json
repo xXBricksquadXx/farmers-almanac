@@ -207,10 +207,10 @@
   },
   {
     "date": "2025-01-09",
-    "moonPhase": "first_quarter",
+    "moonPhase": "waxing_gibbous",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -219,11 +219,17 @@
       "pasture planning"
     ],
     "farming": {
-      "bestFor": [],
+      "bestFor": [
+        "equipment maintenance",
+        "seed ordering and pasture planning"
+      ],
       "avoid": []
     },
     "business": {
-      "bestFor": [],
+      "bestFor": [
+        "strategic planning for next season",
+        "budgeting and cash-flow mapping"
+      ],
       "avoid": []
     }
   },
@@ -502,10 +508,10 @@
   },
   {
     "date": "2025-01-20",
-    "moonPhase": "waning_gibbous",
+    "moonPhase": "last_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -514,16 +520,11 @@
       "pasture planning"
     ],
     "farming": {
-      "bestFor": [
-        "barn and fence repairs"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "bookkeeping and tax prep",
-        "closing old files"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -787,10 +788,10 @@
   },
   {
     "date": "2025-01-31",
-    "moonPhase": "new",
+    "moonPhase": "waxing_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -1457,10 +1458,10 @@
   },
   {
     "date": "2025-02-26",
-    "moonPhase": "waning_crescent",
+    "moonPhase": "new",
     "moonName": null,
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -1470,14 +1471,15 @@
     ],
     "farming": {
       "bestFor": [
-        "barn and fence repairs"
+        "equipment maintenance",
+        "seed ordering and pasture planning"
       ],
       "avoid": []
     },
     "business": {
       "bestFor": [
-        "bookkeeping and tax prep",
-        "closing old files"
+        "strategic planning for next season",
+        "budgeting and cash-flow mapping"
       ],
       "avoid": []
     }
@@ -1774,29 +1776,6 @@
   },
   {
     "date": "2025-03-09",
-    "moonPhase": "first_quarter",
-    "moonName": null,
-    "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
-    "region": "Middle Tennessee / Zone 7a",
-    "holiday": null,
-    "eclipse": null,
-    "crops": [
-      "corn",
-      "soybeans",
-      "pasture renovation"
-    ],
-    "farming": {
-      "bestFor": [],
-      "avoid": []
-    },
-    "business": {
-      "bestFor": [],
-      "avoid": []
-    }
-  },
-  {
-    "date": "2025-03-09",
     "moonPhase": "waxing_gibbous",
     "moonName": null,
     "sign": null,
@@ -1896,10 +1875,10 @@
   },
   {
     "date": "2025-03-12",
-    "moonPhase": "full",
-    "moonName": "Worm Moon",
+    "moonPhase": "waxing_gibbous",
+    "moonName": null,
     "sign": null,
-    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -1910,17 +1889,21 @@
     ],
     "farming": {
       "bestFor": [
-        "thinning seedlings",
-        "weeding and strengthening stands"
+        "starting corn and soybean plantings",
+        "seeding cool-season pasture"
       ],
-      "avoid": []
+      "avoid": [
+        "heavy harvest operations"
+      ]
     },
     "business": {
       "bestFor": [
-        "reviewing budgets",
-        "adjusting early plans"
+        "kicking off new projects",
+        "planning marketing around planting season"
       ],
-      "avoid": []
+      "avoid": [
+        "overcommitting long-term before plans are clear"
+      ]
     }
   },
   {
@@ -2012,10 +1995,10 @@
   },
   {
     "date": "2025-03-16",
-    "moonPhase": "waning_gibbous",
-    "moonName": null,
+    "moonPhase": "full",
+    "moonName": "Worm Moon",
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -2197,10 +2180,10 @@
   },
   {
     "date": "2025-03-23",
-    "moonPhase": "waning_crescent",
+    "moonPhase": "last_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -2210,17 +2193,11 @@
       "pasture renovation"
     ],
     "farming": {
-      "bestFor": [
-        "thinning seedlings",
-        "weeding and strengthening stands"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "reviewing budgets",
-        "adjusting early plans"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -2313,10 +2290,10 @@
   },
   {
     "date": "2025-03-27",
-    "moonPhase": "new",
+    "moonPhase": "waning_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -2327,21 +2304,17 @@
     ],
     "farming": {
       "bestFor": [
-        "starting corn and soybean plantings",
-        "seeding cool-season pasture"
+        "thinning seedlings",
+        "weeding and strengthening stands"
       ],
-      "avoid": [
-        "heavy harvest operations"
-      ]
+      "avoid": []
     },
     "business": {
       "bestFor": [
-        "kicking off new projects",
-        "planning marketing around planting season"
+        "reviewing budgets",
+        "adjusting early plans"
       ],
-      "avoid": [
-        "overcommitting long-term before plans are clear"
-      ]
+      "avoid": []
     }
   },
   {
@@ -2544,10 +2517,10 @@
   },
   {
     "date": "2025-04-03",
-    "moonPhase": "first_quarter",
+    "moonPhase": "waxing_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -2557,12 +2530,22 @@
       "pasture renovation"
     ],
     "farming": {
-      "bestFor": [],
-      "avoid": []
+      "bestFor": [
+        "starting corn and soybean plantings",
+        "seeding cool-season pasture"
+      ],
+      "avoid": [
+        "heavy harvest operations"
+      ]
     },
     "business": {
-      "bestFor": [],
-      "avoid": []
+      "bestFor": [
+        "kicking off new projects",
+        "planning marketing around planting season"
+      ],
+      "avoid": [
+        "overcommitting long-term before plans are clear"
+      ]
     }
   },
   {
@@ -2636,10 +2619,10 @@
   },
   {
     "date": "2025-04-07",
-    "moonPhase": "waxing_gibbous",
+    "moonPhase": "first_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -2649,22 +2632,12 @@
       "pasture renovation"
     ],
     "farming": {
-      "bestFor": [
-        "starting corn and soybean plantings",
-        "seeding cool-season pasture"
-      ],
-      "avoid": [
-        "heavy harvest operations"
-      ]
+      "bestFor": [],
+      "avoid": []
     },
     "business": {
-      "bestFor": [
-        "kicking off new projects",
-        "planning marketing around planting season"
-      ],
-      "avoid": [
-        "overcommitting long-term before plans are clear"
-      ]
+      "bestFor": [],
+      "avoid": []
     }
   },
   {
@@ -2768,10 +2741,10 @@
   },
   {
     "date": "2025-04-11",
-    "moonPhase": "full",
-    "moonName": "Pink Moon",
+    "moonPhase": "waxing_gibbous",
+    "moonName": null,
     "sign": null,
-    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -2782,17 +2755,21 @@
     ],
     "farming": {
       "bestFor": [
-        "thinning seedlings",
-        "weeding and strengthening stands"
+        "starting corn and soybean plantings",
+        "seeding cool-season pasture"
       ],
-      "avoid": []
+      "avoid": [
+        "heavy harvest operations"
+      ]
     },
     "business": {
       "bestFor": [
-        "reviewing budgets",
-        "adjusting early plans"
+        "kicking off new projects",
+        "planning marketing around planting season"
       ],
-      "avoid": []
+      "avoid": [
+        "overcommitting long-term before plans are clear"
+      ]
     }
   },
   {
@@ -2971,10 +2948,10 @@
   },
   {
     "date": "2025-04-18",
-    "moonPhase": "last_quarter",
+    "moonPhase": "waning_gibbous",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -2984,11 +2961,17 @@
       "pasture renovation"
     ],
     "farming": {
-      "bestFor": [],
+      "bestFor": [
+        "thinning seedlings",
+        "weeding and strengthening stands"
+      ],
       "avoid": []
     },
     "business": {
-      "bestFor": [],
+      "bestFor": [
+        "reviewing budgets",
+        "adjusting early plans"
+      ],
       "avoid": []
     }
   },
@@ -3063,10 +3046,10 @@
   },
   {
     "date": "2025-04-22",
-    "moonPhase": "waning_crescent",
+    "moonPhase": "last_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -3076,17 +3059,11 @@
       "pasture renovation"
     ],
     "farming": {
-      "bestFor": [
-        "thinning seedlings",
-        "weeding and strengthening stands"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "reviewing budgets",
-        "adjusting early plans"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -3278,10 +3255,10 @@
   },
   {
     "date": "2025-04-29",
-    "moonPhase": "waxing_crescent",
+    "moonPhase": "new",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -3410,10 +3387,10 @@
   },
   {
     "date": "2025-05-03",
-    "moonPhase": "first_quarter",
+    "moonPhase": "waxing_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -3423,12 +3400,22 @@
       "pasture renovation"
     ],
     "farming": {
-      "bestFor": [],
-      "avoid": []
+      "bestFor": [
+        "starting corn and soybean plantings",
+        "seeding cool-season pasture"
+      ],
+      "avoid": [
+        "heavy harvest operations"
+      ]
     },
     "business": {
-      "bestFor": [],
-      "avoid": []
+      "bestFor": [
+        "kicking off new projects",
+        "planning marketing around planting season"
+      ],
+      "avoid": [
+        "overcommitting long-term before plans are clear"
+      ]
     }
   },
   {
@@ -3601,10 +3588,10 @@
   },
   {
     "date": "2025-05-10",
-    "moonPhase": "full",
-    "moonName": "Flower Moon",
+    "moonPhase": "waxing_gibbous",
+    "moonName": null,
     "sign": null,
-    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -3615,17 +3602,21 @@
     ],
     "farming": {
       "bestFor": [
-        "thinning seedlings",
-        "weeding and strengthening stands"
+        "starting corn and soybean plantings",
+        "seeding cool-season pasture"
       ],
-      "avoid": []
+      "avoid": [
+        "heavy harvest operations"
+      ]
     },
     "business": {
       "bestFor": [
-        "reviewing budgets",
-        "adjusting early plans"
+        "kicking off new projects",
+        "planning marketing around planting season"
       ],
-      "avoid": []
+      "avoid": [
+        "overcommitting long-term before plans are clear"
+      ]
     }
   },
   {
@@ -3717,10 +3708,10 @@
   },
   {
     "date": "2025-05-14",
-    "moonPhase": "waning_gibbous",
-    "moonName": null,
+    "moonPhase": "full",
+    "moonName": "Flower Moon",
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -3902,10 +3893,10 @@
   },
   {
     "date": "2025-05-21",
-    "moonPhase": "waning_crescent",
+    "moonPhase": "last_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -3915,17 +3906,11 @@
       "pasture renovation"
     ],
     "farming": {
-      "bestFor": [
-        "thinning seedlings",
-        "weeding and strengthening stands"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "reviewing budgets",
-        "adjusting early plans"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -4018,10 +4003,10 @@
   },
   {
     "date": "2025-05-25",
-    "moonPhase": "new",
+    "moonPhase": "waning_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -4032,21 +4017,17 @@
     ],
     "farming": {
       "bestFor": [
-        "starting corn and soybean plantings",
-        "seeding cool-season pasture"
+        "thinning seedlings",
+        "weeding and strengthening stands"
       ],
-      "avoid": [
-        "heavy harvest operations"
-      ]
+      "avoid": []
     },
     "business": {
       "bestFor": [
-        "kicking off new projects",
-        "planning marketing around planting season"
+        "reviewing budgets",
+        "adjusting early plans"
       ],
-      "avoid": [
-        "overcommitting long-term before plans are clear"
-      ]
+      "avoid": []
     }
   },
   {
@@ -4150,10 +4131,10 @@
   },
   {
     "date": "2025-05-29",
-    "moonPhase": "waxing_crescent",
+    "moonPhase": "new",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -4249,10 +4230,10 @@
   },
   {
     "date": "2025-06-01",
-    "moonPhase": "first_quarter",
+    "moonPhase": "waxing_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -4263,11 +4244,17 @@
       "cattle forage"
     ],
     "farming": {
-      "bestFor": [],
+      "bestFor": [
+        "side-dressing corn and soybeans",
+        "irrigation and pest scouting"
+      ],
       "avoid": []
     },
     "business": {
-      "bestFor": [],
+      "bestFor": [
+        "mid-season promotions",
+        "field days and farm visits"
+      ],
       "avoid": []
     }
   },
@@ -4345,10 +4332,10 @@
   },
   {
     "date": "2025-06-05",
-    "moonPhase": "waxing_gibbous",
+    "moonPhase": "first_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -4359,17 +4346,11 @@
       "cattle forage"
     ],
     "farming": {
-      "bestFor": [
-        "side-dressing corn and soybeans",
-        "irrigation and pest scouting"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "mid-season promotions",
-        "field days and farm visits"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -4465,10 +4446,10 @@
   },
   {
     "date": "2025-06-09",
-    "moonPhase": "full",
-    "moonName": "Strawberry Moon",
+    "moonPhase": "waxing_gibbous",
+    "moonName": null,
     "sign": null,
-    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -4480,15 +4461,15 @@
     ],
     "farming": {
       "bestFor": [
-        "hay cutting and storage",
-        "rotational grazing adjustments"
+        "side-dressing corn and soybeans",
+        "irrigation and pest scouting"
       ],
       "avoid": []
     },
     "business": {
       "bestFor": [
-        "checking margins on inputs",
-        "cutting what is not paying off"
+        "mid-season promotions",
+        "field days and farm visits"
       ],
       "avoid": []
     }
@@ -4675,10 +4656,10 @@
   },
   {
     "date": "2025-06-16",
-    "moonPhase": "last_quarter",
+    "moonPhase": "waning_gibbous",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -4689,11 +4670,17 @@
       "cattle forage"
     ],
     "farming": {
-      "bestFor": [],
+      "bestFor": [
+        "hay cutting and storage",
+        "rotational grazing adjustments"
+      ],
       "avoid": []
     },
     "business": {
-      "bestFor": [],
+      "bestFor": [
+        "checking margins on inputs",
+        "cutting what is not paying off"
+      ],
       "avoid": []
     }
   },
@@ -4771,10 +4758,10 @@
   },
   {
     "date": "2025-06-20",
-    "moonPhase": "waning_crescent",
+    "moonPhase": "last_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -4785,17 +4772,11 @@
       "cattle forage"
     ],
     "farming": {
-      "bestFor": [
-        "hay cutting and storage",
-        "rotational grazing adjustments"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "checking margins on inputs",
-        "cutting what is not paying off"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -4981,10 +4962,10 @@
   },
   {
     "date": "2025-06-27",
-    "moonPhase": "waxing_crescent",
+    "moonPhase": "new",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -5101,10 +5082,10 @@
   },
   {
     "date": "2025-07-01",
-    "moonPhase": "first_quarter",
+    "moonPhase": "waxing_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -5115,11 +5096,17 @@
       "cattle forage"
     ],
     "farming": {
-      "bestFor": [],
+      "bestFor": [
+        "side-dressing corn and soybeans",
+        "irrigation and pest scouting"
+      ],
       "avoid": []
     },
     "business": {
-      "bestFor": [],
+      "bestFor": [
+        "mid-season promotions",
+        "field days and farm visits"
+      ],
       "avoid": []
     }
   },
@@ -5287,10 +5274,10 @@
   },
   {
     "date": "2025-07-08",
-    "moonPhase": "full",
-    "moonName": "Buck Moon",
+    "moonPhase": "waxing_gibbous",
+    "moonName": null,
     "sign": null,
-    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -5302,15 +5289,15 @@
     ],
     "farming": {
       "bestFor": [
-        "hay cutting and storage",
-        "rotational grazing adjustments"
+        "side-dressing corn and soybeans",
+        "irrigation and pest scouting"
       ],
       "avoid": []
     },
     "business": {
       "bestFor": [
-        "checking margins on inputs",
-        "cutting what is not paying off"
+        "mid-season promotions",
+        "field days and farm visits"
       ],
       "avoid": []
     }
@@ -5407,10 +5394,10 @@
   },
   {
     "date": "2025-07-12",
-    "moonPhase": "waning_gibbous",
-    "moonName": null,
+    "moonPhase": "full",
+    "moonName": "Buck Moon",
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -5527,10 +5514,10 @@
   },
   {
     "date": "2025-07-16",
-    "moonPhase": "last_quarter",
+    "moonPhase": "waning_gibbous",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -5541,11 +5528,17 @@
       "cattle forage"
     ],
     "farming": {
-      "bestFor": [],
+      "bestFor": [
+        "hay cutting and storage",
+        "rotational grazing adjustments"
+      ],
       "avoid": []
     },
     "business": {
-      "bestFor": [],
+      "bestFor": [
+        "checking margins on inputs",
+        "cutting what is not paying off"
+      ],
       "avoid": []
     }
   },
@@ -5599,10 +5592,10 @@
   },
   {
     "date": "2025-07-19",
-    "moonPhase": "waning_crescent",
+    "moonPhase": "last_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -5613,17 +5606,11 @@
       "cattle forage"
     ],
     "farming": {
-      "bestFor": [
-        "hay cutting and storage",
-        "rotational grazing adjustments"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "checking margins on inputs",
-        "cutting what is not paying off"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -5719,10 +5706,10 @@
   },
   {
     "date": "2025-07-23",
-    "moonPhase": "new",
+    "moonPhase": "waning_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -5734,15 +5721,15 @@
     ],
     "farming": {
       "bestFor": [
-        "side-dressing corn and soybeans",
-        "irrigation and pest scouting"
+        "hay cutting and storage",
+        "rotational grazing adjustments"
       ],
       "avoid": []
     },
     "business": {
       "bestFor": [
-        "mid-season promotions",
-        "field days and farm visits"
+        "checking margins on inputs",
+        "cutting what is not paying off"
       ],
       "avoid": []
     }
@@ -5839,10 +5826,10 @@
   },
   {
     "date": "2025-07-27",
-    "moonPhase": "waxing_crescent",
+    "moonPhase": "new",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -6031,10 +6018,10 @@
   },
   {
     "date": "2025-08-03",
-    "moonPhase": "waxing_gibbous",
+    "moonPhase": "first_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -6045,17 +6032,11 @@
       "cattle forage"
     ],
     "farming": {
-      "bestFor": [
-        "side-dressing corn and soybeans",
-        "irrigation and pest scouting"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "mid-season promotions",
-        "field days and farm visits"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -6151,10 +6132,10 @@
   },
   {
     "date": "2025-08-07",
-    "moonPhase": "full",
-    "moonName": "Sturgeon Moon",
+    "moonPhase": "waxing_gibbous",
+    "moonName": null,
     "sign": null,
-    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -6166,15 +6147,15 @@
     ],
     "farming": {
       "bestFor": [
-        "hay cutting and storage",
-        "rotational grazing adjustments"
+        "side-dressing corn and soybeans",
+        "irrigation and pest scouting"
       ],
       "avoid": []
     },
     "business": {
       "bestFor": [
-        "checking margins on inputs",
-        "cutting what is not paying off"
+        "mid-season promotions",
+        "field days and farm visits"
       ],
       "avoid": []
     }
@@ -6361,10 +6342,10 @@
   },
   {
     "date": "2025-08-14",
-    "moonPhase": "last_quarter",
+    "moonPhase": "waning_gibbous",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -6375,11 +6356,17 @@
       "cattle forage"
     ],
     "farming": {
-      "bestFor": [],
+      "bestFor": [
+        "hay cutting and storage",
+        "rotational grazing adjustments"
+      ],
       "avoid": []
     },
     "business": {
-      "bestFor": [],
+      "bestFor": [
+        "checking margins on inputs",
+        "cutting what is not paying off"
+      ],
       "avoid": []
     }
   },
@@ -6457,10 +6444,10 @@
   },
   {
     "date": "2025-08-18",
-    "moonPhase": "waning_crescent",
+    "moonPhase": "last_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -6471,17 +6458,11 @@
       "cattle forage"
     ],
     "farming": {
-      "bestFor": [
-        "hay cutting and storage",
-        "rotational grazing adjustments"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "checking margins on inputs",
-        "cutting what is not paying off"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -6667,10 +6648,10 @@
   },
   {
     "date": "2025-08-25",
-    "moonPhase": "waxing_crescent",
+    "moonPhase": "new",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -6787,10 +6768,10 @@
   },
   {
     "date": "2025-08-29",
-    "moonPhase": "first_quarter",
+    "moonPhase": "waxing_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -6801,11 +6782,17 @@
       "cattle forage"
     ],
     "farming": {
-      "bestFor": [],
+      "bestFor": [
+        "side-dressing corn and soybeans",
+        "irrigation and pest scouting"
+      ],
       "avoid": []
     },
     "business": {
-      "bestFor": [],
+      "bestFor": [
+        "mid-season promotions",
+        "field days and farm visits"
+      ],
       "avoid": []
     }
   },
@@ -6882,10 +6869,10 @@
   },
   {
     "date": "2025-09-02",
-    "moonPhase": "waxing_gibbous",
+    "moonPhase": "first_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -6895,17 +6882,11 @@
       "pasture management"
     ],
     "farming": {
-      "bestFor": [
-        "field scouting for harvest timing",
-        "pasture overseeding"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "planning fall markets",
-        "lining up buyers and processors"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -6969,10 +6950,10 @@
   },
   {
     "date": "2025-09-05",
-    "moonPhase": "full",
-    "moonName": "Harvest Moon",
+    "moonPhase": "waxing_gibbous",
+    "moonName": null,
     "sign": null,
-    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -6983,17 +6964,15 @@
     ],
     "farming": {
       "bestFor": [
-        "harvesting corn and soybeans",
-        "bringing in pumpkins and fall crops",
-        "seeding winter cover crops"
+        "field scouting for harvest timing",
+        "pasture overseeding"
       ],
       "avoid": []
     },
     "business": {
       "bestFor": [
-        "settling accounts",
-        "closing out risky contracts",
-        "year-end inventory"
+        "planning fall markets",
+        "lining up buyers and processors"
       ],
       "avoid": []
     }
@@ -7093,10 +7072,10 @@
   },
   {
     "date": "2025-09-09",
-    "moonPhase": "waning_gibbous",
-    "moonName": null,
+    "moonPhase": "full",
+    "moonName": "Harvest Moon",
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -7217,10 +7196,10 @@
   },
   {
     "date": "2025-09-13",
-    "moonPhase": "last_quarter",
+    "moonPhase": "waning_gibbous",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -7230,11 +7209,19 @@
       "pasture management"
     ],
     "farming": {
-      "bestFor": [],
+      "bestFor": [
+        "harvesting corn and soybeans",
+        "bringing in pumpkins and fall crops",
+        "seeding winter cover crops"
+      ],
       "avoid": []
     },
     "business": {
-      "bestFor": [],
+      "bestFor": [
+        "settling accounts",
+        "closing out risky contracts",
+        "year-end inventory"
+      ],
       "avoid": []
     }
   },
@@ -7402,10 +7389,10 @@
   },
   {
     "date": "2025-09-20",
-    "moonPhase": "new",
+    "moonPhase": "waning_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -7416,15 +7403,17 @@
     ],
     "farming": {
       "bestFor": [
-        "field scouting for harvest timing",
-        "pasture overseeding"
+        "harvesting corn and soybeans",
+        "bringing in pumpkins and fall crops",
+        "seeding winter cover crops"
       ],
       "avoid": []
     },
     "business": {
       "bestFor": [
-        "planning fall markets",
-        "lining up buyers and processors"
+        "settling accounts",
+        "closing out risky contracts",
+        "year-end inventory"
       ],
       "avoid": []
     }
@@ -7518,10 +7507,10 @@
   },
   {
     "date": "2025-09-24",
-    "moonPhase": "waxing_crescent",
+    "moonPhase": "new",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -7703,10 +7692,10 @@
   },
   {
     "date": "2025-10-01",
-    "moonPhase": "waxing_gibbous",
+    "moonPhase": "first_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -7716,17 +7705,11 @@
       "pasture management"
     ],
     "farming": {
-      "bestFor": [
-        "field scouting for harvest timing",
-        "pasture overseeding"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "planning fall markets",
-        "lining up buyers and processors"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -7819,10 +7802,10 @@
   },
   {
     "date": "2025-10-05",
-    "moonPhase": "full",
-    "moonName": "Hunter's Moon",
+    "moonPhase": "waxing_gibbous",
+    "moonName": null,
     "sign": null,
-    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -7833,17 +7816,15 @@
     ],
     "farming": {
       "bestFor": [
-        "harvesting corn and soybeans",
-        "bringing in pumpkins and fall crops",
-        "seeding winter cover crops"
+        "field scouting for harvest timing",
+        "pasture overseeding"
       ],
       "avoid": []
     },
     "business": {
       "bestFor": [
-        "settling accounts",
-        "closing out risky contracts",
-        "year-end inventory"
+        "planning fall markets",
+        "lining up buyers and processors"
       ],
       "avoid": []
     }
@@ -8036,10 +8017,10 @@
   },
   {
     "date": "2025-10-12",
-    "moonPhase": "last_quarter",
+    "moonPhase": "waning_gibbous",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -8049,11 +8030,19 @@
       "pasture management"
     ],
     "farming": {
-      "bestFor": [],
+      "bestFor": [
+        "harvesting corn and soybeans",
+        "bringing in pumpkins and fall crops",
+        "seeding winter cover crops"
+      ],
       "avoid": []
     },
     "business": {
-      "bestFor": [],
+      "bestFor": [
+        "settling accounts",
+        "closing out risky contracts",
+        "year-end inventory"
+      ],
       "avoid": []
     }
   },
@@ -8128,10 +8117,10 @@
   },
   {
     "date": "2025-10-16",
-    "moonPhase": "waning_crescent",
+    "moonPhase": "last_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -8141,19 +8130,11 @@
       "pasture management"
     ],
     "farming": {
-      "bestFor": [
-        "harvesting corn and soybeans",
-        "bringing in pumpkins and fall crops",
-        "seeding winter cover crops"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "settling accounts",
-        "closing out risky contracts",
-        "year-end inventory"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -8252,10 +8233,10 @@
   },
   {
     "date": "2025-10-20",
-    "moonPhase": "new",
+    "moonPhase": "waning_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -8266,15 +8247,17 @@
     ],
     "farming": {
       "bestFor": [
-        "field scouting for harvest timing",
-        "pasture overseeding"
+        "harvesting corn and soybeans",
+        "bringing in pumpkins and fall crops",
+        "seeding winter cover crops"
       ],
       "avoid": []
     },
     "business": {
       "bestFor": [
-        "planning fall markets",
-        "lining up buyers and processors"
+        "settling accounts",
+        "closing out risky contracts",
+        "year-end inventory"
       ],
       "avoid": []
     }
@@ -8339,10 +8322,10 @@
   },
   {
     "date": "2025-10-23",
-    "moonPhase": "waxing_crescent",
+    "moonPhase": "new",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -8455,10 +8438,10 @@
   },
   {
     "date": "2025-10-27",
-    "moonPhase": "first_quarter",
+    "moonPhase": "waxing_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -8468,11 +8451,17 @@
       "pasture management"
     ],
     "farming": {
-      "bestFor": [],
+      "bestFor": [
+        "field scouting for harvest timing",
+        "pasture overseeding"
+      ],
       "avoid": []
     },
     "business": {
-      "bestFor": [],
+      "bestFor": [
+        "planning fall markets",
+        "lining up buyers and processors"
+      ],
       "avoid": []
     }
   },
@@ -8547,12 +8536,35 @@
   },
   {
     "date": "2025-10-31",
+    "moonPhase": "first_quarter",
+    "moonName": null,
+    "sign": null,
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "region": "Middle Tennessee / Zone 7a",
+    "holiday": "Halloween",
+    "eclipse": null,
+    "crops": [
+      "pumpkins",
+      "cover crops",
+      "pasture management"
+    ],
+    "farming": {
+      "bestFor": [],
+      "avoid": []
+    },
+    "business": {
+      "bestFor": [],
+      "avoid": []
+    }
+  },
+  {
+    "date": "2025-11-01",
     "moonPhase": "waxing_gibbous",
     "moonName": null,
     "sign": null,
     "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
-    "holiday": "Halloween",
+    "holiday": null,
     "eclipse": null,
     "crops": [
       "pumpkins",
@@ -8575,7 +8587,7 @@
     }
   },
   {
-    "date": "2025-11-01",
+    "date": "2025-11-02",
     "moonPhase": "waxing_gibbous",
     "moonName": null,
     "sign": null,
@@ -8634,10 +8646,10 @@
   },
   {
     "date": "2025-11-04",
-    "moonPhase": "waxing_gibbous",
-    "moonName": null,
+    "moonPhase": "full",
+    "moonName": "Beaver Moon",
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -8648,15 +8660,17 @@
     ],
     "farming": {
       "bestFor": [
-        "field scouting for harvest timing",
-        "pasture overseeding"
+        "harvesting corn and soybeans",
+        "bringing in pumpkins and fall crops",
+        "seeding winter cover crops"
       ],
       "avoid": []
     },
     "business": {
       "bestFor": [
-        "planning fall markets",
-        "lining up buyers and processors"
+        "settling accounts",
+        "closing out risky contracts",
+        "year-end inventory"
       ],
       "avoid": []
     }
@@ -8949,10 +8963,10 @@
   },
   {
     "date": "2025-11-15",
-    "moonPhase": "last_quarter",
+    "moonPhase": "waning_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -8962,11 +8976,19 @@
       "pasture management"
     ],
     "farming": {
-      "bestFor": [],
+      "bestFor": [
+        "harvesting corn and soybeans",
+        "bringing in pumpkins and fall crops",
+        "seeding winter cover crops"
+      ],
       "avoid": []
     },
     "business": {
-      "bestFor": [],
+      "bestFor": [
+        "settling accounts",
+        "closing out risky contracts",
+        "year-end inventory"
+      ],
       "avoid": []
     }
   },
@@ -9268,10 +9290,10 @@
   },
   {
     "date": "2025-11-26",
-    "moonPhase": "waxing_crescent",
+    "moonPhase": "first_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -9281,17 +9303,11 @@
       "pasture management"
     ],
     "farming": {
-      "bestFor": [
-        "field scouting for harvest timing",
-        "pasture overseeding"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "planning fall markets",
-        "lining up buyers and processors"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -9560,10 +9576,10 @@
   },
   {
     "date": "2025-12-07",
-    "moonPhase": "full",
-    "moonName": "Cold Moon",
+    "moonPhase": "waning_gibbous",
+    "moonName": null,
     "sign": null,
-    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -9948,10 +9964,10 @@
   },
   {
     "date": "2025-12-22",
-    "moonPhase": "new",
+    "moonPhase": "waxing_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -10232,10 +10248,10 @@
   },
   {
     "date": "2026-01-02",
-    "moonPhase": "waxing_gibbous",
-    "moonName": null,
+    "moonPhase": "full",
+    "moonName": "Wolf Moon",
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -10245,15 +10261,14 @@
     ],
     "farming": {
       "bestFor": [
-        "equipment maintenance",
-        "seed ordering and pasture planning"
+        "barn and fence repairs"
       ],
       "avoid": []
     },
     "business": {
       "bestFor": [
-        "strategic planning for next season",
-        "budgeting and cash-flow mapping"
+        "bookkeeping and tax prep",
+        "closing old files"
       ],
       "avoid": []
     }
@@ -10515,10 +10530,10 @@
   },
   {
     "date": "2026-01-13",
-    "moonPhase": "last_quarter",
+    "moonPhase": "waning_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -10527,11 +10542,16 @@
       "pasture planning"
     ],
     "farming": {
-      "bestFor": [],
+      "bestFor": [
+        "barn and fence repairs"
+      ],
       "avoid": []
     },
     "business": {
-      "bestFor": [],
+      "bestFor": [
+        "bookkeeping and tax prep",
+        "closing old files"
+      ],
       "avoid": []
     }
   },
@@ -10814,10 +10834,10 @@
   },
   {
     "date": "2026-01-24",
-    "moonPhase": "waxing_crescent",
+    "moonPhase": "first_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -10826,17 +10846,11 @@
       "pasture planning"
     ],
     "farming": {
-      "bestFor": [
-        "equipment maintenance",
-        "seed ordering and pasture planning"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "strategic planning for next season",
-        "budgeting and cash-flow mapping"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -11209,10 +11223,10 @@
   },
   {
     "date": "2026-02-08",
-    "moonPhase": "waning_gibbous",
+    "moonPhase": "last_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -11221,16 +11235,11 @@
       "pasture planning"
     ],
     "farming": {
-      "bestFor": [
-        "barn and fence repairs"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "bookkeeping and tax prep",
-        "closing old files"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -11494,10 +11503,10 @@
   },
   {
     "date": "2026-02-19",
-    "moonPhase": "new",
+    "moonPhase": "waxing_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -11783,10 +11792,10 @@
   },
   {
     "date": "2026-03-02",
-    "moonPhase": "waxing_gibbous",
-    "moonName": null,
+    "moonPhase": "full",
+    "moonName": "Worm Moon",
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -11797,21 +11806,17 @@
     ],
     "farming": {
       "bestFor": [
-        "starting corn and soybean plantings",
-        "seeding cool-season pasture"
+        "thinning seedlings",
+        "weeding and strengthening stands"
       ],
-      "avoid": [
-        "heavy harvest operations"
-      ]
+      "avoid": []
     },
     "business": {
       "bestFor": [
-        "kicking off new projects",
-        "planning marketing around planting season"
+        "reviewing budgets",
+        "adjusting early plans"
       ],
-      "avoid": [
-        "overcommitting long-term before plans are clear"
-      ]
+      "avoid": []
     }
   },
   {
@@ -11989,7 +11994,7 @@
     }
   },
   {
-    "date": "2026-03-08",
+    "date": "2026-03-09",
     "moonPhase": "waning_gibbous",
     "moonName": null,
     "sign": null,
@@ -12014,29 +12019,6 @@
         "reviewing budgets",
         "adjusting early plans"
       ],
-      "avoid": []
-    }
-  },
-  {
-    "date": "2026-03-09",
-    "moonPhase": "last_quarter",
-    "moonName": null,
-    "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
-    "region": "Middle Tennessee / Zone 7a",
-    "holiday": null,
-    "eclipse": null,
-    "crops": [
-      "corn",
-      "soybeans",
-      "pasture renovation"
-    ],
-    "farming": {
-      "bestFor": [],
-      "avoid": []
-    },
-    "business": {
-      "bestFor": [],
       "avoid": []
     }
   },
@@ -12198,10 +12180,10 @@
   },
   {
     "date": "2026-03-16",
-    "moonPhase": "new",
+    "moonPhase": "waning_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -12212,21 +12194,17 @@
     ],
     "farming": {
       "bestFor": [
-        "starting corn and soybean plantings",
-        "seeding cool-season pasture"
+        "thinning seedlings",
+        "weeding and strengthening stands"
       ],
-      "avoid": [
-        "heavy harvest operations"
-      ]
+      "avoid": []
     },
     "business": {
       "bestFor": [
-        "kicking off new projects",
-        "planning marketing around planting season"
+        "reviewing budgets",
+        "adjusting early plans"
       ],
-      "avoid": [
-        "overcommitting long-term before plans are clear"
-      ]
+      "avoid": []
     }
   },
   {
@@ -12330,10 +12308,10 @@
   },
   {
     "date": "2026-03-20",
-    "moonPhase": "waxing_crescent",
+    "moonPhase": "new",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -12462,10 +12440,10 @@
   },
   {
     "date": "2026-03-24",
-    "moonPhase": "first_quarter",
+    "moonPhase": "waxing_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -12475,12 +12453,22 @@
       "pasture renovation"
     ],
     "farming": {
-      "bestFor": [],
-      "avoid": []
+      "bestFor": [
+        "starting corn and soybean plantings",
+        "seeding cool-season pasture"
+      ],
+      "avoid": [
+        "heavy harvest operations"
+      ]
     },
     "business": {
-      "bestFor": [],
-      "avoid": []
+      "bestFor": [
+        "kicking off new projects",
+        "planning marketing around planting season"
+      ],
+      "avoid": [
+        "overcommitting long-term before plans are clear"
+      ]
     }
   },
   {
@@ -12531,10 +12519,10 @@
   },
   {
     "date": "2026-03-27",
-    "moonPhase": "waxing_gibbous",
+    "moonPhase": "first_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -12544,22 +12532,12 @@
       "pasture renovation"
     ],
     "farming": {
-      "bestFor": [
-        "starting corn and soybean plantings",
-        "seeding cool-season pasture"
-      ],
-      "avoid": [
-        "heavy harvest operations"
-      ]
+      "bestFor": [],
+      "avoid": []
     },
     "business": {
-      "bestFor": [
-        "kicking off new projects",
-        "planning marketing around planting season"
-      ],
-      "avoid": [
-        "overcommitting long-term before plans are clear"
-      ]
+      "bestFor": [],
+      "avoid": []
     }
   },
   {
@@ -12663,10 +12641,10 @@
   },
   {
     "date": "2026-03-31",
-    "moonPhase": "full",
-    "moonName": "Worm Moon",
+    "moonPhase": "waxing_gibbous",
+    "moonName": null,
     "sign": null,
-    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -12677,17 +12655,21 @@
     ],
     "farming": {
       "bestFor": [
-        "thinning seedlings",
-        "weeding and strengthening stands"
+        "starting corn and soybean plantings",
+        "seeding cool-season pasture"
       ],
-      "avoid": []
+      "avoid": [
+        "heavy harvest operations"
+      ]
     },
     "business": {
       "bestFor": [
-        "reviewing budgets",
-        "adjusting early plans"
+        "kicking off new projects",
+        "planning marketing around planting season"
       ],
-      "avoid": []
+      "avoid": [
+        "overcommitting long-term before plans are clear"
+      ]
     }
   },
   {
@@ -12779,10 +12761,10 @@
   },
   {
     "date": "2026-04-04",
-    "moonPhase": "waning_gibbous",
-    "moonName": null,
+    "moonPhase": "full",
+    "moonName": "Pink Moon",
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -12964,10 +12946,10 @@
   },
   {
     "date": "2026-04-11",
-    "moonPhase": "waning_crescent",
+    "moonPhase": "last_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -12977,17 +12959,11 @@
       "pasture renovation"
     ],
     "farming": {
-      "bestFor": [
-        "thinning seedlings",
-        "weeding and strengthening stands"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "reviewing budgets",
-        "adjusting early plans"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -13080,10 +13056,10 @@
   },
   {
     "date": "2026-04-15",
-    "moonPhase": "new",
+    "moonPhase": "waning_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -13094,21 +13070,17 @@
     ],
     "farming": {
       "bestFor": [
-        "starting corn and soybean plantings",
-        "seeding cool-season pasture"
+        "thinning seedlings",
+        "weeding and strengthening stands"
       ],
-      "avoid": [
-        "heavy harvest operations"
-      ]
+      "avoid": []
     },
     "business": {
       "bestFor": [
-        "kicking off new projects",
-        "planning marketing around planting season"
+        "reviewing budgets",
+        "adjusting early plans"
       ],
-      "avoid": [
-        "overcommitting long-term before plans are clear"
-      ]
+      "avoid": []
     }
   },
   {
@@ -13311,10 +13283,10 @@
   },
   {
     "date": "2026-04-22",
-    "moonPhase": "first_quarter",
+    "moonPhase": "waxing_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -13324,12 +13296,22 @@
       "pasture renovation"
     ],
     "farming": {
-      "bestFor": [],
-      "avoid": []
+      "bestFor": [
+        "starting corn and soybean plantings",
+        "seeding cool-season pasture"
+      ],
+      "avoid": [
+        "heavy harvest operations"
+      ]
     },
     "business": {
-      "bestFor": [],
-      "avoid": []
+      "bestFor": [
+        "kicking off new projects",
+        "planning marketing around planting season"
+      ],
+      "avoid": [
+        "overcommitting long-term before plans are clear"
+      ]
     }
   },
   {
@@ -13403,10 +13385,10 @@
   },
   {
     "date": "2026-04-26",
-    "moonPhase": "waxing_gibbous",
+    "moonPhase": "first_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -13416,22 +13398,12 @@
       "pasture renovation"
     ],
     "farming": {
-      "bestFor": [
-        "starting corn and soybean plantings",
-        "seeding cool-season pasture"
-      ],
-      "avoid": [
-        "heavy harvest operations"
-      ]
+      "bestFor": [],
+      "avoid": []
     },
     "business": {
-      "bestFor": [
-        "kicking off new projects",
-        "planning marketing around planting season"
-      ],
-      "avoid": [
-        "overcommitting long-term before plans are clear"
-      ]
+      "bestFor": [],
+      "avoid": []
     }
   },
   {
@@ -13622,10 +13594,10 @@
   },
   {
     "date": "2026-05-03",
-    "moonPhase": "waning_gibbous",
-    "moonName": null,
+    "moonPhase": "full",
+    "moonName": "Flower Moon",
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -13738,10 +13710,10 @@
   },
   {
     "date": "2026-05-07",
-    "moonPhase": "last_quarter",
+    "moonPhase": "waning_gibbous",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -13751,11 +13723,17 @@
       "pasture renovation"
     ],
     "farming": {
-      "bestFor": [],
+      "bestFor": [
+        "thinning seedlings",
+        "weeding and strengthening stands"
+      ],
       "avoid": []
     },
     "business": {
-      "bestFor": [],
+      "bestFor": [
+        "reviewing budgets",
+        "adjusting early plans"
+      ],
       "avoid": []
     }
   },
@@ -13830,10 +13808,10 @@
   },
   {
     "date": "2026-05-11",
-    "moonPhase": "waning_crescent",
+    "moonPhase": "last_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -13843,17 +13821,11 @@
       "pasture renovation"
     ],
     "farming": {
-      "bestFor": [
-        "thinning seedlings",
-        "weeding and strengthening stands"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "reviewing budgets",
-        "adjusting early plans"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -13917,10 +13889,10 @@
   },
   {
     "date": "2026-05-14",
-    "moonPhase": "new",
+    "moonPhase": "waning_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -13931,21 +13903,17 @@
     ],
     "farming": {
       "bestFor": [
-        "starting corn and soybean plantings",
-        "seeding cool-season pasture"
+        "thinning seedlings",
+        "weeding and strengthening stands"
       ],
-      "avoid": [
-        "heavy harvest operations"
-      ]
+      "avoid": []
     },
     "business": {
       "bestFor": [
-        "kicking off new projects",
-        "planning marketing around planting season"
+        "reviewing budgets",
+        "adjusting early plans"
       ],
-      "avoid": [
-        "overcommitting long-term before plans are clear"
-      ]
+      "avoid": []
     }
   },
   {
@@ -14049,10 +14017,10 @@
   },
   {
     "date": "2026-05-18",
-    "moonPhase": "waxing_crescent",
+    "moonPhase": "new",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -14181,10 +14149,10 @@
   },
   {
     "date": "2026-05-22",
-    "moonPhase": "first_quarter",
+    "moonPhase": "waxing_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -14194,12 +14162,22 @@
       "pasture renovation"
     ],
     "farming": {
-      "bestFor": [],
-      "avoid": []
+      "bestFor": [
+        "starting corn and soybean plantings",
+        "seeding cool-season pasture"
+      ],
+      "avoid": [
+        "heavy harvest operations"
+      ]
     },
     "business": {
-      "bestFor": [],
-      "avoid": []
+      "bestFor": [
+        "kicking off new projects",
+        "planning marketing around planting season"
+      ],
+      "avoid": [
+        "overcommitting long-term before plans are clear"
+      ]
     }
   },
   {
@@ -14372,10 +14350,10 @@
   },
   {
     "date": "2026-05-29",
-    "moonPhase": "full",
-    "moonName": "Flower Moon",
+    "moonPhase": "waxing_gibbous",
+    "moonName": null,
     "sign": null,
-    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -14386,17 +14364,21 @@
     ],
     "farming": {
       "bestFor": [
-        "thinning seedlings",
-        "weeding and strengthening stands"
+        "starting corn and soybean plantings",
+        "seeding cool-season pasture"
       ],
-      "avoid": []
+      "avoid": [
+        "heavy harvest operations"
+      ]
     },
     "business": {
       "bestFor": [
-        "reviewing budgets",
-        "adjusting early plans"
+        "kicking off new projects",
+        "planning marketing around planting season"
       ],
-      "avoid": []
+      "avoid": [
+        "overcommitting long-term before plans are clear"
+      ]
     }
   },
   {
@@ -14489,10 +14471,10 @@
   },
   {
     "date": "2026-06-02",
-    "moonPhase": "waning_gibbous",
-    "moonName": null,
+    "moonPhase": "full",
+    "moonName": "Strawberry Moon",
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -14681,10 +14663,10 @@
   },
   {
     "date": "2026-06-09",
-    "moonPhase": "waning_crescent",
+    "moonPhase": "last_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -14695,17 +14677,11 @@
       "cattle forage"
     ],
     "farming": {
-      "bestFor": [
-        "hay cutting and storage",
-        "rotational grazing adjustments"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "checking margins on inputs",
-        "cutting what is not paying off"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -14801,10 +14777,10 @@
   },
   {
     "date": "2026-06-13",
-    "moonPhase": "new",
+    "moonPhase": "waning_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -14816,15 +14792,15 @@
     ],
     "farming": {
       "bestFor": [
-        "side-dressing corn and soybeans",
-        "irrigation and pest scouting"
+        "hay cutting and storage",
+        "rotational grazing adjustments"
       ],
       "avoid": []
     },
     "business": {
       "bestFor": [
-        "mid-season promotions",
-        "field days and farm visits"
+        "checking margins on inputs",
+        "cutting what is not paying off"
       ],
       "avoid": []
     }
@@ -15011,10 +14987,10 @@
   },
   {
     "date": "2026-06-20",
-    "moonPhase": "first_quarter",
+    "moonPhase": "waxing_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -15025,11 +15001,17 @@
       "cattle forage"
     ],
     "farming": {
-      "bestFor": [],
+      "bestFor": [
+        "side-dressing corn and soybeans",
+        "irrigation and pest scouting"
+      ],
       "avoid": []
     },
     "business": {
-      "bestFor": [],
+      "bestFor": [
+        "mid-season promotions",
+        "field days and farm visits"
+      ],
       "avoid": []
     }
   },
@@ -15107,10 +15089,10 @@
   },
   {
     "date": "2026-06-24",
-    "moonPhase": "waxing_gibbous",
+    "moonPhase": "first_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -15121,17 +15103,11 @@
       "cattle forage"
     ],
     "farming": {
-      "bestFor": [
-        "side-dressing corn and soybeans",
-        "irrigation and pest scouting"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "mid-season promotions",
-        "field days and farm visits"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -15227,10 +15203,10 @@
   },
   {
     "date": "2026-06-28",
-    "moonPhase": "full",
-    "moonName": "Strawberry Moon",
+    "moonPhase": "waxing_gibbous",
+    "moonName": null,
     "sign": null,
-    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -15242,15 +15218,15 @@
     ],
     "farming": {
       "bestFor": [
-        "hay cutting and storage",
-        "rotational grazing adjustments"
+        "side-dressing corn and soybeans",
+        "irrigation and pest scouting"
       ],
       "avoid": []
     },
     "business": {
       "bestFor": [
-        "checking margins on inputs",
-        "cutting what is not paying off"
+        "mid-season promotions",
+        "field days and farm visits"
       ],
       "avoid": []
     }
@@ -15317,10 +15293,10 @@
   },
   {
     "date": "2026-07-01",
-    "moonPhase": "waning_gibbous",
-    "moonName": null,
+    "moonPhase": "full",
+    "moonName": "Buck Moon",
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -15437,10 +15413,10 @@
   },
   {
     "date": "2026-07-05",
-    "moonPhase": "last_quarter",
+    "moonPhase": "waning_gibbous",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -15451,11 +15427,17 @@
       "cattle forage"
     ],
     "farming": {
-      "bestFor": [],
+      "bestFor": [
+        "hay cutting and storage",
+        "rotational grazing adjustments"
+      ],
       "avoid": []
     },
     "business": {
-      "bestFor": [],
+      "bestFor": [
+        "checking margins on inputs",
+        "cutting what is not paying off"
+      ],
       "avoid": []
     }
   },
@@ -15533,10 +15515,10 @@
   },
   {
     "date": "2026-07-09",
-    "moonPhase": "waning_crescent",
+    "moonPhase": "last_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -15547,17 +15529,11 @@
       "cattle forage"
     ],
     "farming": {
-      "bestFor": [
-        "hay cutting and storage",
-        "rotational grazing adjustments"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "checking margins on inputs",
-        "cutting what is not paying off"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -15743,10 +15719,10 @@
   },
   {
     "date": "2026-07-16",
-    "moonPhase": "waxing_crescent",
+    "moonPhase": "new",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -15863,10 +15839,10 @@
   },
   {
     "date": "2026-07-20",
-    "moonPhase": "first_quarter",
+    "moonPhase": "waxing_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -15877,11 +15853,17 @@
       "cattle forage"
     ],
     "farming": {
-      "bestFor": [],
+      "bestFor": [
+        "side-dressing corn and soybeans",
+        "irrigation and pest scouting"
+      ],
       "avoid": []
     },
     "business": {
-      "bestFor": [],
+      "bestFor": [
+        "mid-season promotions",
+        "field days and farm visits"
+      ],
       "avoid": []
     }
   },
@@ -16049,10 +16031,10 @@
   },
   {
     "date": "2026-07-27",
-    "moonPhase": "full",
-    "moonName": "Buck Moon",
+    "moonPhase": "waxing_gibbous",
+    "moonName": null,
     "sign": null,
-    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -16064,15 +16046,15 @@
     ],
     "farming": {
       "bestFor": [
-        "hay cutting and storage",
-        "rotational grazing adjustments"
+        "side-dressing corn and soybeans",
+        "irrigation and pest scouting"
       ],
       "avoid": []
     },
     "business": {
       "bestFor": [
-        "checking margins on inputs",
-        "cutting what is not paying off"
+        "mid-season promotions",
+        "field days and farm visits"
       ],
       "avoid": []
     }
@@ -16169,10 +16151,10 @@
   },
   {
     "date": "2026-07-31",
-    "moonPhase": "waning_gibbous",
-    "moonName": null,
+    "moonPhase": "full",
+    "moonName": "Buck Moon",
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -16361,10 +16343,10 @@
   },
   {
     "date": "2026-08-07",
-    "moonPhase": "waning_crescent",
+    "moonPhase": "last_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -16375,17 +16357,11 @@
       "cattle forage"
     ],
     "farming": {
-      "bestFor": [
-        "hay cutting and storage",
-        "rotational grazing adjustments"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "checking margins on inputs",
-        "cutting what is not paying off"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -16481,10 +16457,10 @@
   },
   {
     "date": "2026-08-11",
-    "moonPhase": "new",
+    "moonPhase": "waning_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -16496,15 +16472,15 @@
     ],
     "farming": {
       "bestFor": [
-        "side-dressing corn and soybeans",
-        "irrigation and pest scouting"
+        "hay cutting and storage",
+        "rotational grazing adjustments"
       ],
       "avoid": []
     },
     "business": {
       "bestFor": [
-        "mid-season promotions",
-        "field days and farm visits"
+        "checking margins on inputs",
+        "cutting what is not paying off"
       ],
       "avoid": []
     }
@@ -16601,10 +16577,10 @@
   },
   {
     "date": "2026-08-15",
-    "moonPhase": "waxing_crescent",
+    "moonPhase": "new",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -16691,10 +16667,10 @@
   },
   {
     "date": "2026-08-18",
-    "moonPhase": "first_quarter",
+    "moonPhase": "waxing_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -16705,11 +16681,17 @@
       "cattle forage"
     ],
     "farming": {
-      "bestFor": [],
+      "bestFor": [
+        "side-dressing corn and soybeans",
+        "irrigation and pest scouting"
+      ],
       "avoid": []
     },
     "business": {
-      "bestFor": [],
+      "bestFor": [
+        "mid-season promotions",
+        "field days and farm visits"
+      ],
       "avoid": []
     }
   },
@@ -16787,10 +16769,10 @@
   },
   {
     "date": "2026-08-22",
-    "moonPhase": "waxing_gibbous",
+    "moonPhase": "first_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -16801,17 +16783,11 @@
       "cattle forage"
     ],
     "farming": {
-      "bestFor": [
-        "side-dressing corn and soybeans",
-        "irrigation and pest scouting"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "mid-season promotions",
-        "field days and farm visits"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -16907,10 +16883,10 @@
   },
   {
     "date": "2026-08-26",
-    "moonPhase": "full",
-    "moonName": "Sturgeon Moon",
+    "moonPhase": "waxing_gibbous",
+    "moonName": null,
     "sign": null,
-    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -16922,15 +16898,15 @@
     ],
     "farming": {
       "bestFor": [
-        "hay cutting and storage",
-        "rotational grazing adjustments"
+        "side-dressing corn and soybeans",
+        "irrigation and pest scouting"
       ],
       "avoid": []
     },
     "business": {
       "bestFor": [
-        "checking margins on inputs",
-        "cutting what is not paying off"
+        "mid-season promotions",
+        "field days and farm visits"
       ],
       "avoid": []
     }
@@ -17118,10 +17094,10 @@
   },
   {
     "date": "2026-09-02",
-    "moonPhase": "last_quarter",
+    "moonPhase": "waning_gibbous",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -17131,11 +17107,19 @@
       "pasture management"
     ],
     "farming": {
-      "bestFor": [],
+      "bestFor": [
+        "harvesting corn and soybeans",
+        "bringing in pumpkins and fall crops",
+        "seeding winter cover crops"
+      ],
       "avoid": []
     },
     "business": {
-      "bestFor": [],
+      "bestFor": [
+        "settling accounts",
+        "closing out risky contracts",
+        "year-end inventory"
+      ],
       "avoid": []
     }
   },
@@ -17210,10 +17194,10 @@
   },
   {
     "date": "2026-09-06",
-    "moonPhase": "waning_crescent",
+    "moonPhase": "last_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -17223,19 +17207,11 @@
       "pasture management"
     ],
     "farming": {
-      "bestFor": [
-        "harvesting corn and soybeans",
-        "bringing in pumpkins and fall crops",
-        "seeding winter cover crops"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "settling accounts",
-        "closing out risky contracts",
-        "year-end inventory"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -17421,10 +17397,10 @@
   },
   {
     "date": "2026-09-13",
-    "moonPhase": "waxing_crescent",
+    "moonPhase": "new",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -17537,10 +17513,10 @@
   },
   {
     "date": "2026-09-17",
-    "moonPhase": "first_quarter",
+    "moonPhase": "waxing_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -17550,11 +17526,17 @@
       "pasture management"
     ],
     "farming": {
-      "bestFor": [],
+      "bestFor": [
+        "field scouting for harvest timing",
+        "pasture overseeding"
+      ],
       "avoid": []
     },
     "business": {
-      "bestFor": [],
+      "bestFor": [
+        "planning fall markets",
+        "lining up buyers and processors"
+      ],
       "avoid": []
     }
   },
@@ -17716,10 +17698,10 @@
   },
   {
     "date": "2026-09-24",
-    "moonPhase": "full",
-    "moonName": "Harvest Moon",
+    "moonPhase": "waxing_gibbous",
+    "moonName": null,
     "sign": null,
-    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -17730,17 +17712,15 @@
     ],
     "farming": {
       "bestFor": [
-        "harvesting corn and soybeans",
-        "bringing in pumpkins and fall crops",
-        "seeding winter cover crops"
+        "field scouting for harvest timing",
+        "pasture overseeding"
       ],
       "avoid": []
     },
     "business": {
       "bestFor": [
-        "settling accounts",
-        "closing out risky contracts",
-        "year-end inventory"
+        "planning fall markets",
+        "lining up buyers and processors"
       ],
       "avoid": []
     }
@@ -17840,10 +17820,10 @@
   },
   {
     "date": "2026-09-28",
-    "moonPhase": "waning_gibbous",
-    "moonName": null,
+    "moonPhase": "full",
+    "moonName": "Harvest Moon",
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -18033,10 +18013,10 @@
   },
   {
     "date": "2026-10-05",
-    "moonPhase": "waning_crescent",
+    "moonPhase": "last_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -18046,19 +18026,11 @@
       "pasture management"
     ],
     "farming": {
-      "bestFor": [
-        "harvesting corn and soybeans",
-        "bringing in pumpkins and fall crops",
-        "seeding winter cover crops"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "settling accounts",
-        "closing out risky contracts",
-        "year-end inventory"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -18157,10 +18129,10 @@
   },
   {
     "date": "2026-10-09",
-    "moonPhase": "new",
+    "moonPhase": "waning_crescent",
     "moonName": null,
     "sign": null,
-    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -18171,15 +18143,17 @@
     ],
     "farming": {
       "bestFor": [
-        "field scouting for harvest timing",
-        "pasture overseeding"
+        "harvesting corn and soybeans",
+        "bringing in pumpkins and fall crops",
+        "seeding winter cover crops"
       ],
       "avoid": []
     },
     "business": {
       "bestFor": [
-        "planning fall markets",
-        "lining up buyers and processors"
+        "settling accounts",
+        "closing out risky contracts",
+        "year-end inventory"
       ],
       "avoid": []
     }
@@ -18273,10 +18247,10 @@
   },
   {
     "date": "2026-10-13",
-    "moonPhase": "waxing_crescent",
+    "moonPhase": "new",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -18458,10 +18432,10 @@
   },
   {
     "date": "2026-10-20",
-    "moonPhase": "waxing_gibbous",
+    "moonPhase": "first_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -18471,17 +18445,11 @@
       "pasture management"
     ],
     "farming": {
-      "bestFor": [
-        "field scouting for harvest timing",
-        "pasture overseeding"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "planning fall markets",
-        "lining up buyers and processors"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -18574,10 +18542,10 @@
   },
   {
     "date": "2026-10-24",
-    "moonPhase": "full",
-    "moonName": "Hunter's Moon",
+    "moonPhase": "waxing_gibbous",
+    "moonName": null,
     "sign": null,
-    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -18588,17 +18556,15 @@
     ],
     "farming": {
       "bestFor": [
-        "harvesting corn and soybeans",
-        "bringing in pumpkins and fall crops",
-        "seeding winter cover crops"
+        "field scouting for harvest timing",
+        "pasture overseeding"
       ],
       "avoid": []
     },
     "business": {
       "bestFor": [
-        "settling accounts",
-        "closing out risky contracts",
-        "year-end inventory"
+        "planning fall markets",
+        "lining up buyers and processors"
       ],
       "avoid": []
     }
@@ -18791,12 +18757,43 @@
   },
   {
     "date": "2026-10-31",
+    "moonPhase": "waning_gibbous",
+    "moonName": null,
+    "sign": null,
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "region": "Middle Tennessee / Zone 7a",
+    "holiday": "Halloween",
+    "eclipse": null,
+    "crops": [
+      "pumpkins",
+      "cover crops",
+      "pasture management"
+    ],
+    "farming": {
+      "bestFor": [
+        "harvesting corn and soybeans",
+        "bringing in pumpkins and fall crops",
+        "seeding winter cover crops"
+      ],
+      "avoid": []
+    },
+    "business": {
+      "bestFor": [
+        "settling accounts",
+        "closing out risky contracts",
+        "year-end inventory"
+      ],
+      "avoid": []
+    }
+  },
+  {
+    "date": "2026-11-01",
     "moonPhase": "last_quarter",
     "moonName": null,
     "sign": null,
     "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
-    "holiday": "Halloween",
+    "holiday": null,
     "eclipse": null,
     "crops": [
       "pumpkins",
@@ -18976,10 +18973,10 @@
   },
   {
     "date": "2026-11-08",
-    "moonPhase": "waning_crescent",
+    "moonPhase": "new",
     "moonName": null,
     "sign": null,
-    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
+    "notes": "Quiet, seed-planting time in both fields and plans; good for intention and setup work.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -18990,17 +18987,15 @@
     ],
     "farming": {
       "bestFor": [
-        "harvesting corn and soybeans",
-        "bringing in pumpkins and fall crops",
-        "seeding winter cover crops"
+        "field scouting for harvest timing",
+        "pasture overseeding"
       ],
       "avoid": []
     },
     "business": {
       "bestFor": [
-        "settling accounts",
-        "closing out risky contracts",
-        "year-end inventory"
+        "planning fall markets",
+        "lining up buyers and processors"
       ],
       "avoid": []
     }
@@ -19279,10 +19274,10 @@
   },
   {
     "date": "2026-11-19",
-    "moonPhase": "first_quarter",
+    "moonPhase": "waxing_gibbous",
     "moonName": null,
     "sign": null,
-    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
+    "notes": "Energy building; favor starting and growing things.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -19292,11 +19287,17 @@
       "pasture management"
     ],
     "farming": {
-      "bestFor": [],
+      "bestFor": [
+        "field scouting for harvest timing",
+        "pasture overseeding"
+      ],
       "avoid": []
     },
     "business": {
-      "bestFor": [],
+      "bestFor": [
+        "planning fall markets",
+        "lining up buyers and processors"
+      ],
       "avoid": []
     }
   },
@@ -20007,10 +20008,10 @@
   },
   {
     "date": "2026-12-15",
-    "moonPhase": "waxing_crescent",
+    "moonPhase": "first_quarter",
     "moonName": null,
     "sign": null,
-    "notes": "Energy building; favor starting and growing things.",
+    "notes": "Turning point energy; pause, evaluate, and adjust course rather than forcing new starts or endings.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,
@@ -20019,17 +20020,11 @@
       "pasture planning"
     ],
     "farming": {
-      "bestFor": [
-        "equipment maintenance",
-        "seed ordering and pasture planning"
-      ],
+      "bestFor": [],
       "avoid": []
     },
     "business": {
-      "bestFor": [
-        "strategic planning for next season",
-        "budgeting and cash-flow mapping"
-      ],
+      "bestFor": [],
       "avoid": []
     }
   },
@@ -20294,10 +20289,10 @@
   },
   {
     "date": "2026-12-26",
-    "moonPhase": "full",
-    "moonName": "Cold Moon",
+    "moonPhase": "waning_gibbous",
+    "moonName": null,
     "sign": null,
-    "notes": "Peak energy and visibility; ideal for harvest, wrapping cycles, and public-facing moves.",
+    "notes": "Energy easing; favor cleanup, harvest, and letting go.",
     "region": "Middle Tennessee / Zone 7a",
     "holiday": null,
     "eclipse": null,

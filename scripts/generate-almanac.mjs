@@ -5,10 +5,27 @@ import { Moon } from 'lunarphase-js';
 
 const REGION = 'Middle Tennessee / Zone 7a';
 
+// Helpers to stay in LOCAL time, not UTC
+function makeLocalDate(year, monthIndex, day) {
+  return new Date(year, monthIndex, day);
+}
+
+function toLocalIso(date) {
+  const y = date.getFullYear();
+  const m = String(date.getMonth() + 1).padStart(2, '0');
+  const d = String(date.getDate()).padStart(2, '0');
+  return `${y}-${m}-${d}`;
+}
+
 function* eachDay(from, to) {
-  const cur = new Date(from);
+  const cur = makeLocalDate(
+    from.getFullYear(),
+    from.getMonth(),
+    from.getDate()
+  );
   while (cur <= to) {
-    yield new Date(cur);
+    // yield a copy
+    yield new Date(cur.getFullYear(), cur.getMonth(), cur.getDate());
     cur.setDate(cur.getDate() + 1);
   }
 }
@@ -55,15 +72,15 @@ const FULL_MOON_NAMES = [
 
 function getFullMoonName(date, moonPhase) {
   if (moonPhase !== 'full') return null;
-  const month = date.getUTCMonth(); // 0-11
+  const month = date.getMonth(); // 0-11 (LOCAL)
   return FULL_MOON_NAMES[month] ?? null;
 }
 
 // Simple US holiday recognizer (major dates + a few moveable)
 function getHoliday(date) {
-  const m = date.getUTCMonth() + 1; // 1-12
-  const d = date.getUTCDate(); // 1-31
-  const weekday = date.getUTCDay(); // 0 Sun - 6 Sat
+  const m = date.getMonth() + 1; // 1-12 (LOCAL)
+  const d = date.getDate(); // 1-31 (LOCAL)
+  const weekday = date.getDay(); // 0 Sun - 6 Sat (LOCAL)
 
   // Fixed-date holidays
   if (m === 1 && d === 1) return "New Year's Day";
@@ -87,7 +104,7 @@ function getHoliday(date) {
 }
 
 function getSeason(date) {
-  const m = date.getUTCMonth(); // 0-11
+  const m = date.getMonth(); // 0-11 LOCAL
   if (m === 11 || m <= 1) return 'winter'; // Dec, Jan, Feb
   if (m >= 2 && m <= 4) return 'spring'; // Mar–May
   if (m >= 5 && m <= 7) return 'summer'; // Jun–Aug
@@ -206,7 +223,7 @@ function getGuidance(season, phaseGroup) {
 }
 
 function buildDay(date) {
-  const iso = date.toISOString().slice(0, 10); // YYYY-MM-DD
+  const iso = toLocalIso(date); // YYYY-MM-DD in LOCAL time
 
   const phaseName = Moon.lunarPhase(date); // e.g. "Waxing Gibbous"
   const moonPhase = mapPhaseName(phaseName);
@@ -253,8 +270,9 @@ function buildDay(date) {
 }
 
 function main() {
-  const from = new Date('2025-01-01T00:00:00Z');
-  const to = new Date('2026-12-31T00:00:00Z');
+  // Local midnight range for Middle Tennessee
+  const from = makeLocalDate(2025, 0, 1); // Jan 1, 2025
+  const to = makeLocalDate(2026, 11, 31); // Dec 31, 2026
 
   const days = [];
   for (const d of eachDay(from, to)) {
