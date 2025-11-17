@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2025-11-01",
+    "moonPhase": "waxing_crescent",
+    "moonName": null,
+    "sign": "Sagittarius",
+    "notes": "Good for planning and vision work; light planting.",
+    "tags": ["planning", "light_planting"]
+  },
+  {
+    "date": "2025-11-05",
+    "moonPhase": "first_quarter",
+    "moonName": null,
+    "sign": "Capricorn",
+    "notes": "Push through existing projects; avoid starting brand-new contracts.",
+    "tags": ["push_projects", "avoid_new_contracts"]
+  },
+  {
+    "date": "2025-11-17",
+    "moonPhase": "full",
+    "moonName": "Beaver Moon",
+    "sign": "Gemini",
+    "notes": "Harvest and release; good for wrapping cycles and marketing launches.",
+    "tags": ["harvest", "release", "marketing"]
+  }
+]
